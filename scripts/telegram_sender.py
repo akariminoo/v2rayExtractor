@@ -48,9 +48,9 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
 
     base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main"
 
-    message = "📊 **خلاصه ساب‌لینک‌های V2rayExtractor** 📊\n\n"
+    message = "📊 **V2rayExtractor** 📊\n\n"
     total_configs = sum(counts.values())
-    message += f"تعداد کل کانفیگ‌های سالم: **{total_configs}**\n\n"
+    message += f": **{total_configs}**\n\n"
 
     links_map = {
         "mix": f"{base_raw_url}/mix/sub.html", "vless": f"{base_raw_url}/vless.html",
@@ -69,7 +69,7 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
 
     iran_tz = pytz.timezone("Asia/Tehran")
     time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
-    message += f"\n*آخرین بروزرسانی: {time_ir}*"
+    message += f"\n*: {time_ir}*"
 
     try:
         bot.send_message(chat_id, message, parse_mode='Markdown', disable_web_page_preview=True)
