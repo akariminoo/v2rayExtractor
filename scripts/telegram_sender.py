@@ -23,8 +23,8 @@ CONFIG_CHANNEL_ID_RAW = os.getenv('TELEGRAM_CHANNEL_ID', 'v2ray_Extractor').lstr
 CONFIG_CHANNEL_URL = f"https://t.me/{CONFIG_CHANNEL_ID_RAW}"
 
 MARKUP = types.InlineKeyboardMarkup(row_width=2)
-btn1 = types.InlineKeyboardButton("Github", url="https://github.com/arshiacomplus")
-btn2 = types.InlineKeyboardButton("Author", url="https://t.me/arshiacomplus")
+btn1 = types.InlineKeyboardButton("Github", url="https://github.com/ashiacom")
+btn2 = types.InlineKeyboardButton("Author", url="https://t.me/Outcome9k")
 MARKUP.add(btn1, btn2)
 
 
@@ -159,10 +159,10 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
 
             caption = (
                 f"{message_text}\n\n"
-                f"⏰ Time: {time_ir}\n"
-                f"🔍 From: [{safe_source}]({from_link})\n\n"
-                f"🆔 Main Channel: [{safe_main_channel_id}]({MAIN_CHANNEL_URL})\n"
-                f"🚀 Config Channel: [{safe_config_channel_id}]({CONFIG_CHANNEL_URL})"
+                f"𝙏𝙞𝙢𝙚: {time_ir}\n"
+                f"𝙁𝙧𝙤𝙢: [{safe_source}]({from_link})\n\n"
+                f"𝙈𝙖𝙞𝙣 𝘾𝙝𝙖𝙣𝙣𝙚𝙡: [{safe_main_channel_id}]({MAIN_CHANNEL_URL})\n"
+                f"𝘾𝙤𝙣𝙛𝙞𝙜 𝘾𝙝𝙖𝙣𝙣𝙚𝙡: [{safe_config_channel_id}]({CONFIG_CHANNEL_URL})"
             )
 
             send_with_rate_limit_handling(
