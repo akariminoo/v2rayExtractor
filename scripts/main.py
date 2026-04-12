@@ -45,9 +45,7 @@ TELEGRAM_URLS = [
     "https://t.me/s/outlinevpnofficial", "https://t.me/s/v2rayngvpn", "https://t.me/s/V2raNG_DA",
     "https://t.me/s/V2rayNg_madam", "https://t.me/s/v2boxxv2rayng", "https://t.me/s/configshub2",
     "https://t.me/s/v2ray_configs_pool", "https://t.me/s/hope_net", "https://t.me/s/everydayvpn",
-    "https://t.me/s/v2nodes", "https://t.me/s/shadowproxy66", "https://t.me/s/free_nettm",
-    "https://t.me/ChitMin1411", "https://t.me/v2rayssh1", "https://t.me/n4vpn", "https://t.me/premium_channel_404",
-    "https://t.me/Chit1239", "https://t.me/flyv2ray", "https://t.me/zero_freevpn"
+    "https://t.me/s/v2nodes", "https://t.me/s/shadowproxy66", "https://t.me/s/free_nettm"
 ]
 
 SEND_TO_TELEGRAM = os.getenv('SEND_TO_TELEGRAM', 'false').lower() == 'true'
