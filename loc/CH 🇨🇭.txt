@@ -1,1 +1,2 @@
 trojan://duaR-NjjdGGLeZ%2BW6j%3D3NY46vZW%2BzyMD1z@89.125.95.152:11300?type=tcp&security=tls&headerType=none&sni=www.toughapp.click&fp=chrome&allowInsecure=1#%3E%3E%40v2ray_configs_pool%3A%3ACH
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#%3E%3E%40v2rayngvpn%3A%3ACH
