@@ -1,1 +1,0 @@
-trojan://PtRV8to08i8FMsY.Uw7%3DyMuIaR3eVTGmvA@149.104.87.182:443?type=tcp&security=tls&headerType=none&sni=www.jewelapp.click&fp=chrome&allowInsecure=1#%3E%3E%40v2ray_configs_pool%3A%3AMX
