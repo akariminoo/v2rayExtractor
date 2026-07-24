@@ -1,0 +1,2 @@
+vless://e4e54019-48ea-5fcc-bb51-462ec68d1598@95.182.90.211:8080?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALV
+vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?path=%2Fchunkycorp&security=none&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ALV
