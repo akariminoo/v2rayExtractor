@@ -4,5 +4,5 @@ trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&sni=sele
 trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AAU
 trojan://OD90375861@82.117.225.123:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AAU
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
-trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
+trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
