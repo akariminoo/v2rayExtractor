@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%3E%3E%40v2nodes%3A%3AKR
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?security=tls&insecure=0&sni=152-69-231-175.liao.kdns.fr#%3E%3E%40v2rayNG_Matsuri%3A%3AKR
