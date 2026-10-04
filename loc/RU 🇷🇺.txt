@@ -1,1 +1,1 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&security=reality&sni=ru-c-1.minzt.su&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU

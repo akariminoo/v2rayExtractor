@@ -2,6 +2,5 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
 vless://201e0019-2e79-4147-8a09-e510d630abeb@57.129.130.57:52014?encryption=none&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://395bab7e-302a-42b4-bac7-8acb7d36fdf3@57.129.130.10:52014?encryption=none&fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://817be056-2afc-4358-9b8d-5dbe836251f3@95.179.192.31:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=googleapis.com#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%3E%3E%40EliV2ray%3A%3AGB
